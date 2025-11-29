@@ -1,11 +1,13 @@
+📝 Todo List Web App
+
+A full-stack Task Management Application built using Java, Spring Boot, Spring MVC, Spring Security, JPA/Hibernate, JSP, and H2 in-memory database.
+
 🚀 Features
 🔐 User Authentication
 
 Login & Registration
 
 Password encryption using Spring Security
-
-Role-based access (USER/Admin support ready)
 
 📝 Todo Management
 
